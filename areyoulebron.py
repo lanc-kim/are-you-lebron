@@ -1,4 +1,4 @@
-#are you lebron small project using and/or/not conditionals by lanc 2025
+#are you lebron small project using and/or/not logic operators by lanc 2025
 
 team = input("What teams have you played for?: ").lower()
 print("Hmmm...")
